@@ -1,0 +1,14 @@
+{
+  "name": "orchestrate",
+  "displayName": "Orchestrate",
+  "version": "1.0.0",
+  "description": "Orchestrator mode for Fable/Opus: the main session plans, delegates to tiered executor/explorer/reviewer subagents (model and effort chosen per task, capped at high), and owns review plus end-to-end verification.",
+  "author": {
+    "name": "Gautam Gohil",
+    "email": "gautamgohil0@gmail.com"
+  },
+  "homepage": "https://github.com/gautam6023/skills",
+  "repository": "https://github.com/gautam6023/skills",
+  "license": "MIT",
+  "keywords": ["orchestration", "subagents", "multi-agent"]
+}

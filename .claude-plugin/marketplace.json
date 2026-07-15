@@ -1,0 +1,16 @@
+{
+  "name": "gautam-skills",
+  "description": "Gautam's Claude Code skills and agents.",
+  "owner": {
+    "name": "Gautam Gohil",
+    "email": "gautamgohil0@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "orchestrate",
+      "source": "./",
+      "displayName": "Orchestrate",
+      "description": "Orchestrator mode for Fable/Opus with tiered executor/explorer/reviewer subagents (effort capped at high)."
+    }
+  ]
+}
