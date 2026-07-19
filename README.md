@@ -3,7 +3,7 @@ My Claude Code skills and agents.
 
 ## orchestrate
 
-Puts the main session (Fable or Opus) into orchestrator mode: it plans, delegates, integrates, and verifies end-to-end. Execution goes to subagents one tier below, with model and effort (capped at high) chosen per task — except the genuinely hard core pieces, which the orchestrator may implement itself (an Opus orchestrator decides per task what it keeps vs hands to Sonnet).
+Puts the main session (Fable) into orchestrator mode: it plans, delegates, integrates, and verifies end-to-end. Execution goes to Opus subagents, with effort (capped at high) chosen per task — except the genuinely hard core pieces, which the orchestrator may implement itself.
 
 ### Install as a plugin (recommended)
 
